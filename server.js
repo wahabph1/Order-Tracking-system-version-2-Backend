@@ -37,7 +37,8 @@ const allowedOrigins = [
     'http://localhost:3000', 
     'https://order-tracking-frontend.vercel.app', 
     'https://order-f.vercel.app',
-    'https://order-f-p2r4.vercel.app'
+    'https://order-f-p2r4.vercel.app',
+    'https://order-tracking-system-version-2-fro.vercel.app'
 ];
 
 app.use(cors({
